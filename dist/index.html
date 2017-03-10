@@ -1,0 +1,56 @@
+<html>
+    <head>
+        <style>
+            @import url('https://fonts.googleapis.com/css?family=Roboto');
+            @font-face {
+                font-family: _Quadon;
+                src: url(fonts/Quadon-Regular.ttf);
+            }
+
+            * {
+                box-sizing: border-box;
+            }
+
+            html, body {
+                font-family: Roboto;
+                margin: 0;
+                padding: 0;
+                background: #efefef;
+                width: 100%;
+            }
+
+            h1, h2, h3, h4, h5, h6, h7 {
+                font-family: _Quadon;
+            }
+
+            a, a:hover, a:active {
+                text-decoration: none;
+            }
+
+            .gridLink {
+                font-family: Roboto;
+                height: 16em;
+                text-align: center;
+            }
+            .gridLinkContent {
+                box-shadow: 0 0 5px #ccc;
+                height: 95%;
+                font-family: _Quadon;
+                color: white;
+                font-weight: bolder;
+                font-size: 1.7rem;
+                padding-top: 37%;
+                background-size: cover;
+                background-image: url(./assets/icon_website.png);
+                vertical-align: bottom;
+            }
+            .gridLinkContent a {
+                color: white;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="react-target"></div>
+        <script src="./bundle.js"></script>
+    </body>
+</html>
