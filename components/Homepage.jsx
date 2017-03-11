@@ -20,10 +20,17 @@ class GridMenu extends Component {
                 <h3>Connectomics Institute for Reconstructing Cortex:  Understanding Intelligence Together</h3>
                 <br />
                 CIRCUIT offers Johns Hopkins University students an opportunity to participate in a cutting-edge summer research experience to map the brain at nanoscale resolution, while building skills to make significant contributions to science in a fun, collaborative environment.  Please carefully read the about page to learn more about the institute and the learn page to learn more about connectomics.  
+
+                All students affiliated with Johns Hopkins University (all schools and degree levels) are invited to apply!  Students do not necessarily need a background in neuroscience, computer science, or engineering. However, students should be able to demonstrate an interest in science and research in their application.  We are also looking for a few students able to serve as teaching assistants. 
                 <br /><br />
+
+                We especially encourage applications from undergraduate sophomores and juniors, students from underserved backgrounds (e.g., first generation students, low-income backgrounds), students who are underrepresented in STEM fields, and/or those who may not have previously had an opportunity for a research experience. The positions will be filled on a rolling basis, so please apply early!!   
+                    5000 dollar stipend provided.​
+
                 Once you are ready, please apply via the apply link below. Applications will be reviewed on a rolling basis, so apply now!  For questions please contact: 
                 <br />
-                
+                <br />
+
                 <ul>
                   <li>William Gray Roncal, Ph.D. (william.gray.roncal@jhuapl.edu)</li>
                   <li>Marysol Encarnacion (marysol@jhu.edu)</li>
