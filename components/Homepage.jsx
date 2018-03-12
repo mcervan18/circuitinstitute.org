@@ -19,14 +19,19 @@ class GridMenu extends Component {
                 <ol>
                 <h3>Connectomics Institute for Reconstructing Cortex:  Understanding Intelligence Together</h3>
                 <br />
-                CIRCUIT offers Johns Hopkins University students an opportunity to participate in a cutting-edge summer research experience to map the brain at nanoscale resolution, while building skills to make significant contributions to science in a fun, collaborative environment.  Please carefully read the about page to learn more about the institute and the learn page to learn more about connectomics.  
+                
+                CIRCUIT offers Johns Hopkins University (JHU) students an opportunity to participate in a cutting-edge year-long research experience to map the brain at nanoscale resolution, while building skills to make significant contributions to science in a fun, collaborative environment. All students affiliated with JHU (all schools and degree levels) are invited to apply! Please carefully read the About page to learn more about the Institute and the Learn page to read more about connectomics. Students do not need a background in neuroscience, computer science, or engineering, however, students should be able to demonstrate an interest in science and inquiry in their application. Our program will focus on research in data science, computational neuroscience, machine learning, and artificial intelligence applications.
 
-                All students affiliated with Johns Hopkins University (all schools and degree levels) are invited to apply!  Students do not necessarily need a background in neuroscience, computer science, or engineering. However, students should be able to demonstrate an interest in science and research in their application.  We are also looking for a few students able to serve as teaching assistants. 
-                <br /><br />
+                This program is offered in collaboration with the Hopkins Office of Undergraduate Research (HOUR) at Johns Hopkins University and the Johns Hopkins University Applied Physics Laboratory (JHU/APL). 
 
-                We especially encourage applications from undergraduate sophomores and juniors, students from underserved backgrounds (e.g., first generation students, low-income backgrounds), students who are underrepresented in STEM fields, and/or those who may not have previously had an opportunity for a research experience. The positions will be filled on a rolling basis, so please apply early!!   
-                    5000 dollar stipend provided.​
+                Program and leadership support will come from the Intelligent Systems Center (ISC) and APL BRAIN (Breakthrough Research in Artificial Intelligence and Neuroscience).  The ISC is a JHU/APL cross-disciplinary research center spanning machine learning, robotic and autonomous systems and applied neuroscience (www.jhuapl.edu/isc). APL BRAIN is a research lab focused on developing synthetic brains to adapt to real-world environments.
 
+                CIRCUIT consists of a cohort-based summer session and a school year session. During the summer, students will dedicate 8-10 weeks of full-time work at the ISC located on the JHU/APL campus. During the school year session, students will be required to work part-time remotely. The program offers an integrated experience, so both summer and school year participation are required. CIRCUIT provides a stipend to help cover living expenses and transportation costs to and from JHU/APL. During the school year, students are paid a stipend and provided research credit for their work.
+
+                Please see the About page for more details about the program and application process.  A video from last year’s program is available here:  https://www.youtube.com/watch?v=5u7N0Gq9q3w
+    
+                We especially encourage applications from trailblazing students. We define trailblazers as high-achieving students from underserved backgrounds (e.g., first generation students, low-income backgrounds), women in STEM, other students who are underrepresented in STEM fields, and those who may not have previously had an opportunity for a research experience. Our program will provide training and mentoring to support students in the broader research community.
+                
                 Once you are ready, please apply via the apply link below. Applications will be reviewed on a rolling basis, so apply now!  For questions please contact: 
                 <br />
                 <br />
@@ -56,7 +61,7 @@ class GridMenu extends Component {
                                         backgroundImage: 'url(./images/membrane_tile.jpg)'
                                     }}
                                     className="gridLinkContent">
-                                    <Link to="application">Application</Link>
+                                    <Link to="https://research.jhu.edu/hour/internal-programs/circuit/">Application</Link>
                                 </div>
                             </Col>
                             <Col className="gridLink" xs={6} sm={4}>
