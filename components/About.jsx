@@ -36,7 +36,7 @@ Our positions will be filled on a rolling basis, so please apply early!!
 
 -	March 12th: Application OPENS
 -	March 19th: Interviews begin
--	March 23rd: Priority Deadline (applications after this point are accepted on a space available basis; applications received by this date are considered equally)
+-	March 27th: Priority Deadline (applications after this point are accepted on a space available basis; applications received by this date are considered equally)
 -	Early April: Acceptance letters are sent electronically (tentative)
 -	April - May: Orientation sessions
 -	June XX: Full-time CIRCUIT - TBD before you accept an offer
