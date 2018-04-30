@@ -1,7 +1,7 @@
 module.exports = {
     entry: './index.jsx',
     output: {
-        filename: 'dist/bundle.js',
+        filename: 'docs/bundle.js',
     },
     module: {
         loaders: [{
