@@ -1,15 +1,15 @@
 const text = `
 
-## Connectomics Institute for Reconstructing Cortex: Understanding Intelligence Together
+## Cohort-based Integrated Research Community for Undergraduate Innovation and Trailblazing
 
 
-CIRCUIT offers Johns Hopkins University (JHU) students an opportunity to participate in a cutting-edge year-long research experience to map the brain at nanoscale resolution, while building skills to make significant contributions to science in a fun, collaborative environment. All students affiliated with JHU (all schools and degree levels) are invited to apply! Please carefully read the <a href="http://circuitinstitute.org/#/about">About page</a> to learn more about the Institute and the <a href="http://circuitinstitute.org/#/learn">Learn page</a> to read more about connectomics. Students do not need a background in neuroscience, computer science, or engineering, however, students should be able to demonstrate an interest in science and inquiry in their application. Our program will focus on research in data science, computational neuroscience, machine learning, and artificial intelligence applications.
+CIRCUIT offers Johns Hopkins University (JHU) students an opportunity to participate in a cutting-edge research experience, while building skills to make significant contributions to science in a fun, collaborative environment. All students affiliated with JHU (all schools and degree levels) are invited to apply! Please carefully read the <a href="http://circuitinstitute.org/#/about">About page</a> to learn more about the program and the <a href="http://circuitinstitute.org/#/learn">Learn page</a> to read more about our previous work in the field of connectomics. Students do not need a background in computer science or engineering, however, students should be able to demonstrate an interest in science and inquiry in their application. Possible research areas include Artificial Intelligence, Precision Medicine, Connectomics, and Bio-Inspired Robotics.
 
 This program is offered in collaboration with the Hopkins Office of Undergraduate Research (HOUR) at Johns Hopkins University and the <a href="http://www.jhuapl.edu/">Johns Hopkins University Applied Physics Laboratory</a> (JHU/APL).
 
-Program and leadership support will come from the Intelligent Systems Center (ISC) and APL BRAIN (Breakthrough Research in Artificial Intelligence and Neuroscience). <a href="http://www.jhuapl.edu/isc">The ISC</a> is a JHU/APL cross-disciplinary research center spanning machine learning, robotic and autonomous systems and applied neuroscience. APL BRAIN is a research lab focused on developing synthetic brains to adapt to real-world environments.
+Program and leadership support will come from APL staff at the Intelligent Systems Center (ISC). <a href="http://www.jhuapl.edu/isc">The ISC</a> is a JHU/APL cross-disciplinary research center spanning machine learning, robotic and autonomous systems and applied neuroscience.
 
-CIRCUIT consists of a cohort-based summer session and a school year session. During the summer, students will dedicate 8-10 weeks of full-time work at the ISC located on the JHU/APL campus. During the school year session, students will be required to work part-time remotely. The program offers an integrated experience, so both summer and school year participation are required. CIRCUIT provides a stipend to help cover living expenses and transportation costs to and from JHU/APL. During the school year, students are paid a stipend and provided research credit for their work.
+CIRCUIT consists of a cohort-based summer session and a school year session. During the summer, students will dedicate 11 weeks of full-time work at the ISC located on the JHU/APL campus. During the school year session, students will be required to work part-time remotely. The program offers an integrated experience, so both summer and school year participation are highly encouraged. CIRCUIT provides a stipend to help cover living expenses and transportation costs to and from JHU/APL during the summer. During the school year, students are paid a stipend and provided research credit for their work.
 
 Please see the <a href="http://circuitinstitute.org/#/about">About page</a> for more details about the program and application process.  A video from last year's program is available <a href="https://www.youtube.com/watch?v=5u7N0Gq9q3w">here</a>.
 
@@ -19,7 +19,7 @@ Once you are ready, please apply via the apply link below. Applications will be 
 
 
 - William Gray Roncal, Ph.D. (william.gray.roncal@jhuapl.edu)
-- Marysol Encarnacion (marysol@jhu.edu)
+- Martha Cervantes (martha.cervantes@jhuapl.edu)
 `;
 
 
