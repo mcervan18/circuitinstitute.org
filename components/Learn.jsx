@@ -1,5 +1,14 @@
 const text = `
 
+## Background:
+
+As neural imaging techniques and image processing capabilities have improved, so has our ability to analyze the brain. We are able to interrogate large volumes of the brain at scales ranging from millimeter to nanometer resolution, with a variety of methods including MRI, PET/CT, array tomography, CLARITY, and serial section electron microscopy. This has resulted in a deluge of data available for analysis to answer questions that have puzzled humans for centuries.
+
+Computational neuroscience has enabled these efforts to unfold and expand over the last few decades with large-scale projects (e.g., the Human Brain Project, the Human Connectome Project, BRAIN initiative efforts) underway that will revolutionize the way we do brain research. Currently, the community is working to image petabytes (tissue volume of 1 cubic millimeter ) of electron microscopy data and reconstruct large brain maps. As a result, we will have the ability to investigate the underlying network structure of these neuronal circuits, toward unlocking the capability of new, intelligent machine learning algorithms.
+
+These datasets enable the identification of individual neurons, their synaptic connections and other key features. This will provide information about brain structure, function, and insight on pathologies. Manually tracing these datasets, although the most accurate method, is a monumental effort that would take years to analyze for even a small section of cortex. This approach is infeasible for the larger (petascale) sized volumes being explored in this effort. Therefore, we are currently using computer vision and machine learning to train computers 'to see' and automate the process of reconstructing these brain maps, called connectomes.
+It is critical to analyze the resulting network estimates to understand their accuracy, so that we can use the underlying information to understand more about intelligence.
+
 # Learn about connectomics
 
 On this page, we will provide some information to help you learn about the emerging field of brain mapping. 
