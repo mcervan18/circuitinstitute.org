@@ -72,7 +72,7 @@ class GridMenu extends Component {
                                         backgroundImage: 'url(./images/membrane_tile.jpg)'
                                     }}
                                     className="gridLinkContent">
-                                    <a href="https://research.jhu.edu/hour/internal-programs/circuit/">Application</a>
+                                    <a href="https://research.jhu.edu/hour/internal/circuit/">Application</a>
                                 </div>
                             </Col>
                             <Col className="gridLink" xs={6} sm={4}>
